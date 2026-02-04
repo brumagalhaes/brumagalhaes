@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Eu sou a Bruna, apaixonada por design e tecnologia. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web e mobile.</p>
+<p align="left">Apaixonada por design e tecnologia. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web e mobile.</p>
 
 ###
 
